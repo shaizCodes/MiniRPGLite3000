@@ -1,8 +1,8 @@
-# RPGLite3000
+# MiniRPGLite3000
 
 ## Introduction
 
-**RPGLite3000** is a text-based RPG simulation developed in Java. This command-line game allows you to assemble and command an army of heroes in an epic battle against waves of enemies. Choose your heroes wisely, fight strategically, and upgrade your army as you progress through increasingly challenging rounds.
+**MiniRPGLite3000** is a text-based RPG simulation developed in Java. This command-line game allows you to assemble and command an army of heroes in an epic battle against waves of enemies. Choose your heroes wisely, fight strategically, and upgrade your army as you progress through increasingly challenging rounds.
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@
 
 ## Game Overview
 
-In **RPGLite3000**, you are tasked with forming a team of heroes from a pool of distinct classes, each with unique abilities. Once assembled, your team will face off against different types of enemies in turn-based combat. If your heroes survive, you can award them with armor, arms and health that will help them in future battles.
+In **MiniRPGLite3000**, you are tasked with forming a team of heroes from a pool of distinct classes, each with unique abilities. Once assembled, your team will face off against different types of enemies in turn-based combat. If your heroes survive, you can award them with armor, arms and health that will help them in future battles.
 
 ### Key Features:
 - **Hero Selection**: Choose from four different classes: Mage, Healer, Hunter, and Warrior.
@@ -85,7 +85,7 @@ The game features two main types of enemies:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/shaizCodes/RPGLite3000.git
+   git clone https://github.com/shaizCodes/MiniRPGLite3000.git
    ```
 
 2. **Navigate to the project directory:**
